@@ -19,7 +19,7 @@
   "homepage": "https://github.com/abelqburst/html-calculator#readme",
   "dependencies": {
     "express": "^4.16.3"
-  }
+  },
   {
   "name": "myapp",
   "description": "a really cool app",
