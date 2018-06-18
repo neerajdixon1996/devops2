@@ -20,4 +20,12 @@
   "dependencies": {
     "express": "^4.16.3"
   }
+  {
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "0.0.1",
+  "engines": {
+    "npm": "6.1.0"
+  }
+}
 }
